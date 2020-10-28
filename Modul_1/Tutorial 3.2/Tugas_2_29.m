@@ -1,0 +1,5 @@
+num_of_images = prod(size(my_images)) 
+fieldnames(my_images) 
+class(my_images) 
+isstruct(my_images) 
+isstruct(num_of_images)

@@ -1,0 +1,1 @@
+figure, imhist(I), title('Histogram of Image');

@@ -1,0 +1,1 @@
+g = imfilter(a,f,'full','conv')

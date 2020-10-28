@@ -1,0 +1,1 @@
+z2 = imfilter(x,y,'conv')

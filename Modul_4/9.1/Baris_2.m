@@ -1,0 +1,6 @@
+C = imhist(I,64);
+subplot(2,2,3), imhist(I,64) , axis tight, ... 
+    title('Histogram with 64 bins') 
+D = imhist(I,32);
+subplot(2,2,4),imhist(I,32), axis tight, ... 
+    title('Histogram with 32 bins')

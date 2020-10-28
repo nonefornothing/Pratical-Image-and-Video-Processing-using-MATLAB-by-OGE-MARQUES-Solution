@@ -1,0 +1,3 @@
+H_gau_hfe = a + (b .*H_gau); 
+figure, mesh(fftshift(H_gau_hfe)), zlim([0 2]), ... 
+    title('Gaussian high-pass filter');

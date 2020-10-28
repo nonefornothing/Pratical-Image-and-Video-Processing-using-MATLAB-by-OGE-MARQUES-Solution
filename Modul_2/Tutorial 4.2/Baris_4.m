@@ -1,0 +1,1 @@
+X_gray = ind2gray(X,map);

@@ -1,0 +1,1 @@
+fn = fspecial('average')

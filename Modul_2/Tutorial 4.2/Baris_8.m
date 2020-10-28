@@ -1,0 +1,1 @@
+imshow(X,map), impixelinfo

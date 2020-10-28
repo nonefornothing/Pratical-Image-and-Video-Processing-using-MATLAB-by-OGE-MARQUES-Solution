@@ -1,0 +1,3 @@
+fn_gau = fspecial('gaussian',9,1.5); 
+figure, bar3(fn_gau,'b'), ... 
+    title('Gaussian filter as a 3D graph');

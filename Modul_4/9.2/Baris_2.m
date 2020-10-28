@@ -1,0 +1,1 @@
+I_eq = histeq(I,256);

@@ -1,0 +1,3 @@
+H_but_hfe = a + (b .*H_but); 
+figure, mesh(fftshift(H_but_hfe)), zlim([0 2]), ... 
+    title('Butterworth high-pass filter');

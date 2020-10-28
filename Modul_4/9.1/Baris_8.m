@@ -1,0 +1,1 @@
+set(bar_1, 'FaceColor', 'r'), title('Bar Chart')

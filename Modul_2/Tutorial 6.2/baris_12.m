@@ -1,0 +1,1 @@
+bw = im2uint8(roipoly(I));
